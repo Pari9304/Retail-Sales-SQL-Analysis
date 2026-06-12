@@ -124,7 +124,6 @@ Retail-Sales-SQL-Analysis
 │
 ├── retail_sales_analysis.sql
 ├── README.md
-└── Screenshots
 ```
 
 ---
